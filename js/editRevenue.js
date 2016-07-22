@@ -48,8 +48,5 @@ function editRevCell(){
     //update tablesorter cache so that after a per enters in campaign spend the table can be resorted properly
     $("#marketing-table").trigger("update");
     })
-    //logic to gather value from user and apply to chart to calculate ROI
-    //var campaignAmount = prompt("Please Enter the Campaign Amount for " + campaign)
-    
   });
 }

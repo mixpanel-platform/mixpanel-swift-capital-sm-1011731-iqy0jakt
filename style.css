@@ -177,3 +177,8 @@ td{
     font-family: proxima-nova,sans-serif;
     font-weight: bold;
 }
+
+/*table styling*/
+table.tablesorter thead tr th{
+    border: 1px solid rgb(191, 207, 218);;
+}
